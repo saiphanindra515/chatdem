@@ -1,0 +1,68 @@
+.main1 {
+display : flex;
+flex-wrap : wrap;
+width:100%;
+}
+.box {
+width: 30%;
+order : 1;
+border:2px solid lightgrey;
+}
+.box2{
+ width : 70%;
+ order : 2;
+border:2px solid lightgrey;
+height : 720px;
+}
+.box3 {
+padding :10%;
+width: 50%;
+border:2px solid lightgrey;
+order : 3;
+}
+.chatHead {
+color:white;
+padding :6px;
+height:60px;
+background-color: lightblue;
+border-radius:5px;
+
+
+}
+body::-webkit-scrollbar-thumb {
+  background-color: darkgrey;
+  outline: 1px solid slategrey;
+}
+.me {
+width:60%;
+}
+.chatbody {
+border:1px solid lightgrey;
+height : 580px;
+padding : 3%;
+overflow-x:hidden;
+overflow-y: scroll;
+}
+.photo {
+padding:0%;
+height:auto;
+width : 50%;
+border-radius :5px;
+}
+.message {
+
+height:auto;
+color:black;
+}
+
+@media only screen and (max-width:650px)
+{
+.box {
+width :100%;
+}
+.box2 {
+width:100%;
+}
+.
+
+}
