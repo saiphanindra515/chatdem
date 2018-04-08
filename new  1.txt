@@ -1,0 +1,55 @@
+<div class="list-group">
+  <button type="button" class="list-group-item list-group-item-action disabled ">
+      <strong> Messenger </strong>
+  </button>
+  <button type="button" class="list-group-item list-group-item-action">
+  <img src="manohar.jpg" class="rounded-circle" style="width:40px;height:40px">&nbsp Manohar
+  </button>
+  <button type="button" class="list-group-item list-group-item-action">
+  <img src="neethu.jpg" class="rounded-circle" style="width:40px;height:40px">&nbsp Neethu
+  <span class="badge badge-primary badge-pill">2 unread</span>
+  </button>
+  <button type="button" class="list-group-item list-group-item-action">
+  <img src="paaru.jpg" class="rounded-circle" style="width:40px;height:40px">&nbsp parithosh</button>
+  <button type="button" class="list-group-item list-group-item-action" >
+  <img src="varsha.jpg" class="rounded-circle" style="width:40px;height:40px">&nbsp Varsha
+  <span class="badge badge-primary badge-pill">3 unread</span>
+  </button>
+  <button type="button" class="list-group-item list-group-item-action ">
+   <img src="msd.jpg" class="rounded-circle" style="width:40px;height:40px">&nbsp  MsDhoni
+    <span class="badge badge-primary badge-pill">5 unread</span>
+ </button>
+  <button type="button" class="list-group-item list-group-item-action">
+  <img src="virat.jpg" class="rounded-circle" style="width:40px;height:40px">&nbsp ViratKOhli</button>
+  <button type="button" class="list-group-item list-group-item-action">
+  <img src="mahesh.jpg" class="rounded-circle" style="width:40px;height:40px">&nbsp Mahesh</button>
+  <button type="button" class="list-group-item list-group-item-action">
+  <img src="kajal.jpg" class="rounded-circle" style="width:40px;height:40px">&nbsp Kajal
+  </button>
+  <button type="button" class="list-group-item list-group-item-action" >
+  <img src="Rakul.jpg" class="rounded-circle" style="width:40px;height:40px">&nbsp Rakul</button>
+  
+</div>
+
+
+
+
+
+
+-------------------------------------------------------------------------------------
+
+
+
+<div class="chatbox"style="border:1px solid lightgrey;">
+      
+	  <div class="chatHead">
+	    <img src="manohar.jpg" class="rounded-circle" width="40px" height="40px" align="left">  Manohar
+		<br><h6>online
+	  <div class="body">
+	  <div class="footer">
+	  
+	  
+	  </div>
+	  </div>
+	  </div>
+	  </div>
